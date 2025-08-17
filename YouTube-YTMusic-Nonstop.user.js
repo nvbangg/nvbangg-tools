@@ -11,6 +11,8 @@
 // @run-at       document-start
 // @grant        none
 // @license      MIT
+// @downloadURL https://update.greasyfork.org/scripts/546130/YouTube-YTMusic-Nonstop.user.js
+// @updateURL https://update.greasyfork.org/scripts/546130/YouTube-YTMusic-Nonstop.meta.js
 // ==/UserScript==
 
 (function() {
