@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         YouTube & Music Nonstop
+// @name         YouTube-YTMusic-Nonstop
 // @namespace    https://github.com/nvbangg
 // @version      1.0
 // @description  Prevent YouTube/YouTube Music from pausing playback
