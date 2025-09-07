@@ -1,9 +1,8 @@
-﻿; Color Picker - AutoHotkey v2 (Simple Version)
+﻿; Color Picker
 ; Nhấn Ctrl+Shift+C để lấy mã màu tại vị trí con trỏ chuột
 
 #Requires AutoHotkey v2.0
 
-; Hotkey chính
 ^+c::GetColorAtCursor()
 
 GetColorAtCursor() {
@@ -17,7 +16,6 @@ GetColorAtCursor() {
     g := Integer("0x" . SubStr(hexColor, 3, 2))
     b := Integer("0x" . SubStr(hexColor, 5, 2))
     
-    ; Tạo GUI đơn giản - bỏ nút thu nhỏ
     colorGui := Gui("+AlwaysOnTop -MinimizeBox", "Color Picker")
     colorGui.BackColor := "White"
     
@@ -45,10 +43,8 @@ GetColorAtCursor() {
         DllCall("ReleaseDC", "Ptr", colorBox.Hwnd, "Ptr", hdc)
     }
     
-    ; Nút copy - copy và đóng
     colorGui.Add("Button", "x10 y80 w80 h25", "Copy HEX").OnEvent("Click", (*) => (A_Clipboard := "#" . hexColor, colorGui.Destroy()))
     colorGui.Add("Button", "x100 y80 w80 h25", "Copy RGB").OnEvent("Click", (*) => (A_Clipboard := "rgb(" . r . ", " . g . ", " . b . ")", colorGui.Destroy()))
     
-    ; Hiển thị
     colorGui.Show("w350 h120")
 }
