@@ -1,0 +1,3 @@
+[submodule "EDAns"]
+	path = EDAns
+	url = https://github.com/nvbangg/EDAns.git
