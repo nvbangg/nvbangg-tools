@@ -3,7 +3,22 @@
 
 #Requires AutoHotkey v2.0
 
-^+c::GetColorAtCursor()
+; CapsLock behavior: single press toggles caps
+*CapsLock::
+{
+    KeyWait "CapsLock"
+    if (A_PriorKey = "CapsLock" && A_ThisHotkey = "*CapsLock") {
+        Sleep(20)
+        if GetKeyState("CapsLock", "T")
+            SetCapsLockState "AlwaysOff"
+        else
+            SetCapsLockState "AlwaysOn"
+    }
+}
+
+#HotIf GetKeyState("CapsLock", "P")
+p::GetColorAtCursor()
+#HotIf
 
 GetColorAtCursor() {
     ; Lấy vị trí và màu

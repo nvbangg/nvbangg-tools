@@ -1,3 +1,9 @@
 [submodule "EDAns"]
 	path = EDAns
 	url = https://github.com/nvbangg/EDAns.git
+[submodule "KeyClipboard"]
+	path = KeyClipboard
+	url = https://github.com/nvbangg/KeyClipboard.git
+[submodule "CodePTIT_Copier"]
+	path = CodePTIT_Copier
+	url = https://github.com/nvbangg/CodePTIT_Copier.git
