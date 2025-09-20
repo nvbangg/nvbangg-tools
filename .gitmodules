@@ -7,3 +7,6 @@
 [submodule "CodePTIT_Copier"]
 	path = CodePTIT_Copier
 	url = https://github.com/nvbangg/CodePTIT_Copier.git
+[submodule "Youtube_YTMusic_Nonstop"]
+	path = Youtube_YTMusic_Nonstop
+	url = https://github.com/nvbangg/YouTube_YTMusic_Nonstop.git
