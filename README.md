@@ -1,11 +1,14 @@
 ## Tools từ Repo này:
+- [CodePTIT_Copier](https://github.com/nvbangg/CodePTIT_Copier): Xóa dòng trống thừa và copy nhanh Testcase, Mã bài + Tên bài được chuẩn hóa trên CodePTIT
+
 - [EDAns](https://github.com/nvbangg/EDAns): làm nhanh ED và TOEIC
-- [YouTube-YTMusic-Nonstop.user](https://github.com/nvbangg/nvbangg-tools/blob/main/YouTube-YTMusic-Nonstop.user.js): user script để nghe nhạc trên Youtube & Youtube Music không bị tự dừng bắt xác nhận xem tiếp
+
+- [YouTube™ YTMusic™ Nonstop](https://github.com/nvbangg/YouTube_YTMusic_Nonstop): Prevent auto-pause, keep YouTube & YouTube Music nonstop
+
+- [KeyClipboard](https://github.com/nvbangg/KeyClipboard): A Clipboard with Advanced features and Hotkeys to replace Windows Clipboard!
+
 - [Color-picker](https://github.com/nvbangg/nvbangg-tools/blob/main/color_picker.ahk): lấy mã màu của một điểm ảnh trên màn hình
 
-## Tools khác
-- [KeyClipboard](https://github.com/nvbangg/KeyClipboard): A Clipboard with Advanced features and Hotkeys to replace Windows Clipboard!
-- [CodePTIT_Copier](https://github.com/nvbangg/CodePTIT_Copier): Xóa dòng trống thừa và copy nhanh Testcase trên CodePTIT (bản cũ lẫn mới)
 
 ## [![Follow](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) [![Star](https://img.shields.io/github/stars/nvbangg/nvbangg-tools?label=Star%20this%20repo&logo=github)](https://github.com/nvbangg/nvbangg-tools)
 
