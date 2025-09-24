@@ -9,9 +9,10 @@
 
 - [Color-picker](https://github.com/nvbangg/nvbangg-tools/blob/main/color_picker.ahk): lấy mã màu của một điểm ảnh trên màn hình
 
-
-## [![Follow](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) [![Star](https://img.shields.io/github/stars/nvbangg/nvbangg-tools?label=Star%20this%20repo&logo=github)](https://github.com/nvbangg/nvbangg-tools)
-
-![Gif](https://raw.githubusercontent.com/nvbangg/nvbangg/main/data/star_follow.gif)
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnvbangg%2Fnvbangg-tools&countColor=blue)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fnvbangg%2Fnvbangg-tools)
+<div align="center">
+    <a href="https://github.com/nvbangg"><img src="https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github" height="23" style="margin-right:10px; border-radius:10px;"></a>
+    <a href="https://github.com/nvbangg/nvbangg-tools"><img src="https://img.shields.io/github/stars/nvbangg/nvbangg-tools?label=Star%20this%20repo&logo=github" height="23" style="margin-right:10px; border-radius:10px;"></a>
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnvbangg%2Fnvbangg-tools&countColor=blue&textColor=000000" height="23" style="border-radius:10px;">
+    <br>
+    <img src="https://raw.githubusercontent.com/nvbangg/nvbangg/main/data/star_follow.gif" height="150" style="border-radius:10px;">
+</div>
