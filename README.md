@@ -9,6 +9,15 @@
 - [KeyClipboard](https://github.com/nvbangg/KeyClipboard): A Clipboard with Advanced features and Hotkeys to replace Windows Clipboard!
 
 - [Color-picker](https://github.com/nvbangg/nvbangg-tools/blob/main/color_picker.ahk): lấy mã màu của một điểm ảnh trên màn hình
+  
+## 🛠️ Tools khác:
+
+- **[Mobile apk mod](https://drive.google.com/drive/folders/1rOVRPx6JqJJwXoZ1AvpX1SaNDSmPOi0v?usp=sharing)**:
+    - Youtube, Youtube Music (Premium, SponsorBlock)
+    - Spotify (Premium)
+    - Tiktok, Facebook, messenger (Xóa quảng cáo)
+    - Google Photots (up ảnh/video không giới hạn)
+    - Google Recorder (Xóa giới hạn thiết bị)
 
 <div align="center">
     <a href="https://github.com/nvbangg"><img src="https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github"></a>
