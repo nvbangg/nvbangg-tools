@@ -96,8 +96,12 @@ if (! $myWindowsPrincipal.IsInRole($adminRole))
     exit
 }
 
-if (-not (Test-Path -Path "$PSScriptRoot/autounattend.xml")) {
-    Invoke-RestMethod "https://raw.githubusercontent.com/ntdevlabs/tiny11builder/refs/heads/main/autounattend.xml" -OutFile "$PSScriptRoot/autounattend.xml"
+if (-not (Test-Path -Path "$PSScriptRoot\autounattend.xml")) {
+    Write-Output "Error: File autounattend.xml not found in script directory."
+    Write-Output "Please make sure autounattend.xml is in the same folder as tiny11maker.ps1"
+    exit
+} else {
+    Write-Output "Using local autounattend.xml file."
 }
 
 # Start the transcript and prepare the window
