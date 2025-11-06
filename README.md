@@ -10,6 +10,9 @@
 
 - [Color-picker](https://github.com/nvbangg/nvbangg-tools/blob/main/color_picker.ahk): lấy mã màu của một điểm ảnh trên màn hình
   
+- [tiny11maker](https://github.com/nvbangg/nvbangg-tools/blob/main/tiny11maker.ps1): Fork from https://github.com/ntdevlabs/tiny11builder
+ without removing Edge, Store, Paint, or Terminal.
+  
 ## 🛠️ Tools khác:
 
 - **[Mobile apk mod](https://drive.google.com/drive/folders/1rOVRPx6JqJJwXoZ1AvpX1SaNDSmPOi0v?usp=sharing)**:
