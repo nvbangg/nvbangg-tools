@@ -10,3 +10,6 @@
 [submodule "Nonstop_Audio_Only_for_Youtube_YTMusic"]
 	path = Nonstop_Audio_Only_for_Youtube_YTMusic
 	url = https://github.com/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic.git
+[submodule "Win11Lite"]
+	path = Win11Lite
+	url = https://github.com/nvbangg/Win11Lite.git
