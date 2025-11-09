@@ -19,7 +19,7 @@
 - **[Mobile apk mod](https://drive.google.com/drive/folders/1rOVRPx6JqJJwXoZ1AvpX1SaNDSmPOi0v?usp=sharing)**:
     - [Youtube, Youtube Music (Premium, SponsorBlock)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Youtube_v20.05.46)
     - [Spotify (Premium)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Spotify_v9.0.90.1204)
-    - Tiktok, [Facebook](https://github.com/nvbangg/nvbangg-tools/releases/tag/Facebook_v490.0.0.63.82), [Messenger](https://github.com/nvbangg/nvbangg-tools/releases/tag/Messenger_v529.0.0.43.109) (Xóa quảng cáo)
+    - [Tiktok](https://github.com/nvbangg/nvbangg-tools/releases/tag/TikTok_v36.5.4), [Facebook](https://github.com/nvbangg/nvbangg-tools/releases/tag/Facebook_v490.0.0.63.82), [Messenger](https://github.com/nvbangg/nvbangg-tools/releases/tag/Messenger_v529.0.0.43.109) (Xóa quảng cáo)
     - [Google Photots (up ảnh/video không giới hạn)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-photos_v7.50.0.821714937)
     - [Google Recorder (Xóa giới hạn thiết bị)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-recorder_v1.2.314117049)
 
