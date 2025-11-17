@@ -1,31 +1,26 @@
-## 🛠️ Tools từ Repo này:
+## 🛠️ Tools:
 
 - [CodePTIT_Copier](https://github.com/nvbangg/CodePTIT_Copier): Sửa lỗi dòng trống thừa khi copy trên CodePTIT. Tạo nút copy nhanh Testcase và Mã bài + Tên bài được chuẩn hóa
-
-- [EDAns](https://github.com/nvbangg/EDAns): làm nhanh ED và TOEIC
-
+- [EDAns](https://github.com/nvbangg/EDAns): Extension tự động làm nhanh ED và TOEIC
 - [Nonstop_Audio_Only_for_Youtube_YTMusic](https://github.com/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic): Playing Nonstop & Audio Only on YouTube & YouTube Music
-
 - [KeyClipboard](https://github.com/nvbangg/KeyClipboard): A Clipboard with Advanced features and Hotkeys to replace Windows Clipboard!
-
-- [Win11Lite](https://github.com/nvbangg/Win11Lite): Công cụ tạo ISO Windows 11 Lite
-  
-- [Color-picker](https://github.com/nvbangg/nvbangg-tools/blob/main/color_picker.ahk): lấy mã màu của một điểm ảnh trên màn hình
-  
-- [path-seb](https://github.com/nvbangg/nvbangg-tools/blob/main/patch-seb.exe): Như cái tên =)))
+- [Win11Lite](https://github.com/nvbangg/Win11Lite): Scripts to build a ISO Windows 11 Lite
+- [Color-Picker](https://github.com/nvbangg/nvbangg-tools/blob/main/color_picker.ahk): A simple Color-Picker tool
 
 ## 🛠️ Tools khác:
 
-- **[Mobile apk mod](https://drive.google.com/drive/folders/1rOVRPx6JqJJwXoZ1AvpX1SaNDSmPOi0v?usp=sharing)**:
-    - [Youtube, Youtube Music (Premium, SponsorBlock)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Youtube_v20.05.46)
-    - [Spotify (Premium)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Spotify_v9.0.90.1204)
-    - [Tiktok](https://github.com/nvbangg/nvbangg-tools/releases/tag/TikTok_v36.5.4), [Facebook](https://github.com/nvbangg/nvbangg-tools/releases/tag/Facebook_v490.0.0.63.82), [Messenger](https://github.com/nvbangg/nvbangg-tools/releases/tag/Messenger_v529.0.0.43.109) (Xóa quảng cáo)
-    - [Google Photots (up ảnh/video không giới hạn)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-photos_v7.50.0.821714937)
-    - [Google Recorder (Xóa giới hạn thiết bị)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-recorder_v1.2.314117049)
+- **[Mobile apk mod](https://github.com/nvbangg/nvbangg-tools/releases)**:
+  - [Youtube (Premium, SponsorBlock)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Youtube_v20.05.46)
+  - Youtube Music (Premium, SponsorBlock)
+  - [Spotify (Premium)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Spotify_v9.0.90.1204)
+  - [Tiktok](https://github.com/nvbangg/nvbangg-tools/releases/tag/TikTok_v36.5.4), [Facebook](https://github.com/nvbangg/nvbangg-tools/releases/tag/Facebook_v490.0.0.63.82), [Messenger](https://github.com/nvbangg/nvbangg-tools/releases/tag/Messenger_v529.0.0.43.109): (Remove ads)
+  - [Google Photots (Unlimited photo/video uploads)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-photos_v7.50.0.821714937)
+  - [Google Recorder (Remove device limits)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-recorder_v1.2.314117049)
+  - Instagram, Reddit, Tumblr, Twitch, Twitter (X), Duolingo, Photomath, Amazon Shopping, SoundCloud, Viber, Meme Generator, NetGuard, RAR, ...
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) [![Stars](https://img.shields.io/github/stars/nvbangg/nvbangg-tools?label=Star%20this%20repo&logo=github)](https://github.com/nvbangg/nvbangg-tools) ![Visitors](https://api.visitorbadge.io/api/visitors?path=nvbangg%2Fnvbangg-tools&countColor=blue&style=flat&labelStyle=none)<br><img src="https://nvbangg.github.io/assets/gifs/follow_star_github.gif" height="100">
+[![Followers](https://img.shields.io/github/followers/nvbangg?label=Follow%20my%20GitHub&logo=github)](https://github.com/nvbangg) &nbsp; [![Stars](https://img.shields.io/github/stars/nvbangg/nvbangg-tools?label=Star%20this%20repo&logo=github)](https://github.com/nvbangg/nvbangg-tools) &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=nvbangg-tools&countColor=blue&style=flat&labelStyle=none)<br><img src="https://nvbangg.github.io/assets/gifs/follow_star_github.gif" height="100">
 
 </div>
 
