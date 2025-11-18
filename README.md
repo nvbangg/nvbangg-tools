@@ -11,7 +11,7 @@
 
 - **[Mobile apk mod](https://github.com/nvbangg/nvbangg-tools/releases)**:
   - [Youtube (Premium, SponsorBlock)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Youtube_v20.05.46)
-  - Youtube Music (Premium, SponsorBlock)
+  - [Youtube Music (Premium, SponsorBlock)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Youtube_Music_v8.30.54)
   - [Spotify (Premium)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Spotify_v9.0.90.1204)
   - [Tiktok](https://github.com/nvbangg/nvbangg-tools/releases/tag/TikTok_v36.5.4), [Facebook](https://github.com/nvbangg/nvbangg-tools/releases/tag/Facebook_v490.0.0.63.82), [Messenger](https://github.com/nvbangg/nvbangg-tools/releases/tag/Messenger_v529.0.0.43.109): (Remove ads)
   - [Google Photots (Unlimited photo/video uploads)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-photos_v7.50.0.821714937)
