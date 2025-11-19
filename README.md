@@ -16,7 +16,8 @@
   - [Tiktok](https://github.com/nvbangg/nvbangg-tools/releases/tag/TikTok_v36.5.4), [Facebook](https://github.com/nvbangg/nvbangg-tools/releases/tag/Facebook_v490.0.0.63.82), [Messenger](https://github.com/nvbangg/nvbangg-tools/releases/tag/Messenger_v529.0.0.43.109): (Remove ads)
   - [Google Photots (Unlimited photo/video uploads)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-photos_v7.50.0.821714937)
   - [Google Recorder (Remove device limits)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-recorder_v1.2.314117049)
-  - Instagram, Reddit, Tumblr, Twitch, Twitter (X), Duolingo, Photomath, Amazon Shopping, SoundCloud, Viber, Meme Generator, NetGuard, RAR, ...
+  - [Duolingo(Premium)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Duolingo_v6.54.5)
+  - Instagram, Reddit, Tumblr, Twitch, Twitter (X), Photomath, Amazon Shopping, SoundCloud, Viber, Meme Generator, NetGuard, RAR, ...
 
 <div align="center">
 
