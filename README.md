@@ -7,18 +7,15 @@
 - [Win11Lite](https://github.com/nvbangg/Win11Lite): Scripts to build a ISO Windows 11 Lite
 - [Color-Picker](https://github.com/nvbangg/nvbangg-tools/blob/main/color_picker.ahk): A simple Color-Picker tool
 
-## 🛠️ Tools khác:
+## [🛠️ Mobile Mod](https://github.com/nvbangg/nvbangg-tools/releases)
 
-- **[Mobile apk mod](https://github.com/nvbangg/nvbangg-tools/releases)**:
-  - [Youtube (Premium, SponsorBlock)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Youtube_v20.05.46)
-  - [Youtube Music (Premium, SponsorBlock)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Youtube_Music_v8.30.54)
-  - [Spotify (Premium)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Spotify_v9.0.90.1204)
-  - [Tiktok](https://github.com/nvbangg/nvbangg-tools/releases/tag/TikTok_v36.5.4), [Facebook](https://github.com/nvbangg/nvbangg-tools/releases/tag/Facebook_v490.0.0.63.82), [Messenger](https://github.com/nvbangg/nvbangg-tools/releases/tag/Messenger_v529.0.0.43.109): (Remove ads)
-  - [Google Photots (Unlimited photo/video uploads)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-photos_v7.50.0.821714937)
-  - [Google Recorder (Remove device limits)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-recorder_v1.2.314117049)
-  - [Duolingo (Premium)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Duolingo_v6.54.5)
-  - Telegram, MEGA, Reddit, Cake, Twitter (X), Instagram, Bilibili, Photomath, SoundCloud, TickTick, Meme Generator, Nova Launcher, Speedtest by Ookla, AZ Screen Recorder ...
-  - Remove ads, trackers, analytics, remove internet permission in apps and games
+- [Youtube](https://github.com/nvbangg/nvbangg-tools/releases/tag/YouTube-v20.05.46), [Youtube Music](https://github.com/nvbangg/nvbangg-tools/releases/tag/YouTube_Music-v8.30.54): Premium, SponsorBlock,...
+- [Spotify](https://github.com/nvbangg/nvbangg-tools/releases/tag/Spotify_v9.0.90.1204), [Telegram](https://github.com/nvbangg/nvbangg-tools/releases/tag/Telegram-v12.2.7), [AZ Screen Recorder](https://github.com/nvbangg/nvbangg-tools/releases/tag/AZ_Screen_Recorder-v6.4.3): Mod Premium,...
+- [Tiktok](https://github.com/nvbangg/nvbangg-tools/releases/tag/TikTok-v36.5.4), [Facebook](https://github.com/nvbangg/nvbangg-tools/releases/tag/Facebook_v490.0.0.63.82), [Messenger](https://github.com/nvbangg/nvbangg-tools/releases/tag/Messenger-v533.0.0.47.109): Remove ads,...
+- [Google Photots](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-photos_v7.50.0.821714937): Unlimited photo/video uploads
+- [Google Recorder](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-recorder_v1.2.314117049): Remove device limits
+- MEGA, Duolingo, Reddit, Cake, Twitter (X), Instagram, Bilibili, Photomath, SoundCloud, TickTick, Meme Generator, Nova Launcher, Speedtest by Ookla, ...
+- Remove ads, trackers, analytics, remove internet permission in apps and games
 
 <div align="center">
 
