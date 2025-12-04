@@ -17,7 +17,8 @@
   - [Google Photots (Unlimited photo/video uploads)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-photos_v7.50.0.821714937)
   - [Google Recorder (Remove device limits)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-recorder_v1.2.314117049)
   - [Duolingo (Premium)](https://github.com/nvbangg/nvbangg-tools/releases/tag/Duolingo_v6.54.5)
-  - Instagram, Threads, Reddit, Tumblr, Twitch, Twitter (X), Photomath, Amazon Shopping, SoundCloud, Viber, Meme Generator, NetGuard, RAR, ...
+  - Telegram, MEGA, Reddit, Cake, Twitter (X), Instagram, Bilibili, Photomath, SoundCloud, TickTick, Meme Generator, Nova Launcher, Speedtest by Ookla, AZ Screen Recorder ...
+  - Remove ads, trackers, analytics, remove internet permission in apps and games
 
 <div align="center">
 
