@@ -6,6 +6,7 @@
 - [KeyClipboard](https://github.com/nvbangg/KeyClipboard): A Clipboard with Advanced features and Hotkeys to replace Windows Clipboard!
 - [Win11Lite](https://github.com/nvbangg/Win11Lite): Scripts to build a ISO Windows 11 Lite
 - [Color-Picker](https://github.com/nvbangg/nvbangg-tools/blob/main/color_picker.ahk): A simple Color-Picker tool
+- [Studocu Premium Generator](https://github.com/nvbangg/nvbangg-tools/blob/main/studocu_premium_generator.py): Tool tạo file tài liệu ngẫu nhiên để upload lên Studocu lấy Premium
 
 ## [🛠️ Mobile Mod](https://github.com/nvbangg/nvbangg-tools/releases)
 
