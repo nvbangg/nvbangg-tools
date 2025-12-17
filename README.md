@@ -1,6 +1,6 @@
 ## 🛠️ Tools:
 
-- [CodePTIT_Copier](https://github.com/nvbangg/CodePTIT_Copier): Sửa lỗi dòng trống thừa khi copy trên CodePTIT. Tạo nút copy nhanh Testcase và Mã bài + Tên bài được chuẩn hóa
+- [CodePTIT_Copier](https://github.com/nvbangg/CodePTIT_Copier): Sửa lỗi dòng trống thừa khi Copy trên CodePTIT. Tự động tạo File nhập sẵn Testcase trong VS Code. Hỗ trợ Nộp bài nhanh từ Clipboard
 - [EDAns](https://github.com/nvbangg/EDAns): Extension tự động làm nhanh ED và TOEIC
 - [Nonstop_Audio_Only_for_Youtube_YTMusic](https://github.com/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic): Playing Nonstop & Audio Only on YouTube & YouTube Music
 - [KeyClipboard](https://github.com/nvbangg/KeyClipboard): A Clipboard with Advanced features and Hotkeys to replace Windows Clipboard!
