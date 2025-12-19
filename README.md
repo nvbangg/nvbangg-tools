@@ -3,7 +3,7 @@
 - [CodePTIT_Copier](https://github.com/nvbangg/CodePTIT_Copier): Sửa lỗi dòng trống thừa khi Copy trên CodePTIT. Tự động tạo File nhập sẵn Testcase trong VS Code. Hỗ trợ Nộp bài nhanh từ Clipboard
 - [EDAns](https://github.com/nvbangg/EDAns): Extension tự động làm nhanh ED và TOEIC
 - [Studocu Premium Generator](https://github.com/nvbangg/nvbangg-tools/blob/main/studocu_premium_generator.py): Tool tạo file tài liệu ngẫu nhiên để upload lên Studocu lấy Premium
-- [PTIT](https://github.com/nvbangg/nvbangg-tools/blob/main/PTIT): Script tool tải đề trên DB PTIT
+- [PTIT-Tools](https://github.com/nvbangg/nvbangg-tools/blob/main/PTIT-Tools): Tools PTIT khác
 
 - [Nonstop_Audio_Only_for_Youtube_YTMusic](https://github.com/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic): Playing Nonstop & Audio Only on YouTube & YouTube Music
 - [KeyClipboard](https://github.com/nvbangg/KeyClipboard): A Clipboard with Advanced features and Hotkeys to replace Windows Clipboard!
@@ -14,11 +14,11 @@
 ## [🛠️ Mobile Mod](https://github.com/nvbangg/nvbangg-tools/releases)
 
 - [Youtube](https://github.com/nvbangg/nvbangg-tools/releases/tag/YouTube-v20.05.46), [Youtube Music](https://github.com/nvbangg/nvbangg-tools/releases/tag/YouTube_Music-v8.30.54): Premium, SponsorBlock,...
-- [Spotify](https://github.com/nvbangg/nvbangg-tools/releases/tag/Spotify_v9.0.90.1204), [Telegram](https://github.com/nvbangg/nvbangg-tools/releases/tag/Telegram-v12.2.7), [AZ Screen Recorder](https://github.com/nvbangg/nvbangg-tools/releases/tag/AZ_Screen_Recorder-v6.4.3): Mod Premium,...
+- [Telegram](https://github.com/nvbangg/nvbangg-tools/releases/tag/Telegram-v12.2.7), [AZ Screen Recorder](https://github.com/nvbangg/nvbangg-tools/releases/tag/AZ_Screen_Recorder-v6.4.3): Mod Premium,...
 - [Tiktok](https://github.com/nvbangg/nvbangg-tools/releases/tag/TikTok-v36.5.4), [Facebook](https://github.com/nvbangg/nvbangg-tools/releases/tag/Facebook_v490.0.0.63.82), [Messenger](https://github.com/nvbangg/nvbangg-tools/releases/tag/Messenger-v533.0.0.47.109): Remove ads,...
 - [Google Photos](https://github.com/nvbangg/nvbangg-tools/releases/tag/Photos-v7.55.0.836287599): Unlimited photo/video uploads
 - [Google Recorder](https://github.com/nvbangg/nvbangg-tools/releases/tag/Google-recorder_v1.2.314117049): Remove device limits
-- MEGA, Duolingo, Reddit, Cake, Twitter (X), Instagram, Bilibili, Photomath, SoundCloud, TickTick, Meme Generator, Nova Launcher, Speedtest by Ookla, ...
+- MEGA, Duolingo, Spotify, Reddit, Cake, Twitter (X), Instagram, Bilibili, Photomath, SoundCloud, TickTick, Meme Generator, Nova Launcher, Speedtest by Ookla, ...
 - Remove ads, trackers, analytics, remove internet permission in apps and games
 
 <div align="center">
