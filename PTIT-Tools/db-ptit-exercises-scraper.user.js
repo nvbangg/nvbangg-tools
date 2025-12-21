@@ -39,9 +39,9 @@
   const getQuestion = (id) => api(`/question/${id}`);
 
   const formatQuestion = (q, n) =>
-    `## Câu ${n}: ${q.questionCode || q.code || "N/A"}: ${q.title || "Untitled"}\n- Loại câu hỏi: ${
+    `## Câu ${n}: ${q.questionCode || q.code || "N/A"}: ${q.title || "Untitled"}\n\n- <small>Loại câu hỏi: ${
       q.type || "N/A"
-    }\n- Độ khó: ${q.level || "N/A"}\n\n${q.content || ""}\n\n`;
+    }</small>\n- <small>Độ khó: ${q.level || "N/A"}</small>\n\n${q.content || ""}\n\n`;
 
   const exportAll = async () => {
     try {
@@ -81,8 +81,8 @@
       ).padStart(2, "0")}.md`;
 
       const content =
-        `# DB PTIT - Tổng hợp câu hỏi\n\n- **Tổng số câu hỏi**: ${questions.length}\n- **Ngày tạo**: ${date}\n\n---\n\n` +
-        questions.join("\n---\n\n");
+        `# DB PTIT - Tổng hợp câu hỏi Exercises\n\n## Source: https://github.com/nvbangg/CodePTIT\n\n- **Tổng số câu hỏi**: ${questions.length}\n\n---\n\n` +
+        questions.join("---\n\n");
 
       const blob = new Blob([content], { type: "text/markdown" });
       const a = Object.assign(document.createElement("a"), {

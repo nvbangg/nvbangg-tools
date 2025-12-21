@@ -34,15 +34,15 @@
     const answers = (q.questionAnswers || [])
       .map((a, i) => {
         const label = String.fromCharCode(65 + i);
-        return `- ${label} ${a.correct ? "(Đúng ✓)" : ""}\n\n${a.content}`;
+        return `#### ${label}${a.correct ? " (Đúng ✓)" : ""}\n\n${a.content}`;
       })
       .join("\n\n");
 
     return `## Câu ${n}: ${q.code || "N/A"}
 
-- Danh mục: ${q.categoryName || "N/A"}
-- Loại câu hỏi: ${q.type || "N/A"}
-- Độ khó: ${q.difficultyLevel || "N/A"}
+- <small>Danh mục: ${q.categoryName || "N/A"}</small>
+- <small>Loại câu hỏi: ${q.type || "N/A"}</small>
+- <small>Độ khó: ${q.difficultyLevel || "N/A"}</small>
 
 ### Nội dung câu hỏi
 
@@ -77,9 +77,8 @@ ${answers}
       ).padStart(2, "0")}.md`;
 
       const content =
-        `# DB PTIT - Tổng hợp câu hỏi Questions\n\n` +
-        `- **Tổng số câu hỏi**: ${allQuestions.length}\n` +
-        `- **Ngày tạo**: ${dateStr}\n\n---\n\n` +
+        `# DB PTIT - Tổng hợp câu hỏi Questions\n\n## Source: https://github.com/nvbangg/CodePTIT\n\n` +
+        `- **Tổng số câu hỏi**: ${allQuestions.length}\n\n---\n\n` +
         allQuestions.map((q, i) => formatQuestion(q, i + 1)).join("---\n\n");
 
       const blob = new Blob([content], { type: "text/markdown" });
