@@ -1,13 +1,13 @@
-## 🛠️ Tools:
-
 <details>
-<summary><a href="https://github.com/nvbangg/nvbangg-tools/blob/main/PTIT-Tools"><strong>PTIT-Tools</strong></a>: Tools nếu học trường PTIT</summary>
+<summary><h2><a href="https://github.com/nvbangg/nvbangg-tools/blob/main/PTIT-Tools"><strong>PTIT-Tools</strong></a>: Tools nếu học trường PTIT</h2></summary>
 
 - [CodePTIT_Copier](https://github.com/nvbangg/CodePTIT_Copier): Sửa lỗi dòng trống thừa khi Copy trên CodePTIT. Tự động tạo File nhập sẵn Testcase trong VS Code. Hỗ trợ Nộp bài nhanh từ Clipboard
 - [EDAns](https://github.com/nvbangg/EDAns): Extension tự động làm nhanh ED và TOEIC
 - [Khác...](https://github.com/nvbangg/nvbangg-tools/blob/main/PTIT-Tools)
 
 </details>
+
+## 🛠️ Tools:
 
 - [Studocu Premium Generator](https://github.com/nvbangg/nvbangg-tools/blob/main/studocu_premium_generator.py): Tool tạo file tài liệu ngẫu nhiên để upload lên Studocu lấy Premium
 
