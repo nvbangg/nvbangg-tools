@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         DB PTIT Questions Scraper
-// @namespace    https://github.com/nvbangg
+// @namespace    https://github.com/nvbangg/nvbangg-tools
 // @version      1.0
 // @description  Export All DB PTIT Questions to Markdown
 // @author       nvbangg (https://github.com/nvbangg)
 // @copyright    Copyright (c) 2025 Nguyễn Văn Bằng (nvbangg, github.com/nvbangg)
-// @homepage     https://github.com/nvbangg
+// @homepage     https://github.com/nvbangg/nvbangg-tools
 // @match        https://db.ptit.edu.vn/*
 // @license      GPL-3.0
 // @grant        none
@@ -14,7 +14,7 @@
 (function () {
   "use strict";
 
-  const API_ENDPOINT = "https://dbapi.ptit.edu.vn/api/assignment/question/all";
+  const API = "https://dbapi.ptit.edu.vn/api/assignment/question/all";
   const PAGE_SIZE = 500;
 
   const getToken = () => localStorage.getItem("access_token")?.replace(/"/g, "");
@@ -22,7 +22,7 @@
   const api = async (page) => {
     const token = getToken();
     if (!token) throw new Error("Vui lòng đăng nhập!");
-    const res = await fetch(`${API_ENDPOINT}?page=${page}&size=${PAGE_SIZE}&sort=createdAt,desc`, {
+    const res = await fetch(`${API}?page=${page}&size=${PAGE_SIZE}&sort=createdAt,desc`, {
       method: "GET",
       headers: { Authorization: `Bearer ${token}` },
     });
@@ -38,7 +38,7 @@
       })
       .join("\n\n");
 
-    return `## Câu ${n}: ${q.code || "N/A"}
+    const content = `## Câu ${n}: ${q.code || "N/A"}
 
 - <small>Danh mục: ${q.categoryName || "N/A"}</small>
 - <small>Loại câu hỏi: ${q.type || "N/A"}</small>
@@ -52,6 +52,7 @@ ${q.content || ""}
 ${answers}
 
 `;
+    return content;
   };
 
   const exportAll = async () => {
@@ -70,11 +71,7 @@ ${answers}
       }
 
       updateBtn("Đang tạo file...", true);
-      const now = new Date();
-      const dateStr = `${now.getDate()}/${now.getMonth() + 1}/${now.getFullYear()}`;
-      const filename = `DB_PTIT_QUESTIONS_${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(
-        now.getDate()
-      ).padStart(2, "0")}.md`;
+      const filename = "DB_PTIT_QUESTIONS.md";
 
       const content =
         `# DB PTIT - Tổng hợp câu hỏi Questions\n\n## Source: https://github.com/nvbangg/CodePTIT\n\n` +
@@ -112,7 +109,7 @@ ${answers}
       onclick: () => !btn.disabled && exportAll(),
     });
     btn.style.cssText =
-      "position:fixed;bottom:20px;right:20px;z-index:9999;padding:10px 20px;background:#28a745;color:#fff;border:none;border-radius:6px;cursor:pointer;font-weight:bold;box-shadow:0 2px 8px rgba(0,0,0,0.2)";
+      "position:fixed;bottom:20px;left:20px;z-index:9999;padding:10px 20px;background:#28a745;color:#fff;border:none;border-radius:6px;cursor:pointer;font-weight:bold;box-shadow:0 2px 8px rgba(0,0,0,0.2);font-size:14px";
     document.body.appendChild(btn);
   };
 

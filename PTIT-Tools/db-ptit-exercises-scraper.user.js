@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         DB PTIT Exercises Scraper
-// @namespace    https://github.com/nvbangg
+// @namespace    https://github.com/nvbangg/nvbangg-tools
 // @version      1.0
 // @description  Export All DB PTIT Exercises to Markdown
 // @author       nvbangg (https://github.com/nvbangg)
 // @copyright    Copyright (c) 2025 Nguyễn Văn Bằng (nvbangg, github.com/nvbangg)
-// @homepage     https://github.com/nvbangg
+// @homepage     https://github.com/nvbangg/nvbangg-tools
 // @match        https://db.ptit.edu.vn/*
 // @license      GPL-3.0
 // @grant        none
@@ -38,10 +38,14 @@
 
   const getQuestion = (id) => api(`/question/${id}`);
 
-  const formatQuestion = (q, n) =>
-    `## Câu ${n}: ${q.questionCode || q.code || "N/A"}: ${q.title || "Untitled"}\n\n- <small>Loại câu hỏi: ${
-      q.type || "N/A"
-    }</small>\n- <small>Độ khó: ${q.level || "N/A"}</small>\n\n${q.content || ""}\n\n`;
+  const formatQuestion = (q, n) => {
+    const content = `## Câu ${n}: ${q.questionCode || q.code || "N/A"}: ${
+      q.title || "Untitled"
+    }\n\n- <small>Loại câu hỏi: ${q.type || "N/A"}</small>\n- <small>Độ khó: ${q.level || "N/A"}</small>\n\n${
+      q.content || ""
+    }\n\n`;
+    return content;
+  };
 
   const exportAll = async () => {
     try {
@@ -74,11 +78,7 @@
         await new Promise((r) => setTimeout(r, 50));
       }
 
-      const now = new Date();
-      const date = now.toLocaleDateString("vi-VN");
-      const filename = `DB_PTIT_EXERCISES_${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(
-        now.getDate()
-      ).padStart(2, "0")}.md`;
+      const filename = "DB_PTIT_EXERCISES.md";
 
       const content =
         `# DB PTIT - Tổng hợp câu hỏi Exercises\n\n## Source: https://github.com/nvbangg/CodePTIT\n\n- **Tổng số câu hỏi**: ${questions.length}\n\n---\n\n` +
@@ -115,7 +115,7 @@
       onclick: () => !btn.disabled && exportAll(),
     });
     btn.style.cssText =
-      "position:fixed;bottom:20px;right:20px;z-index:9999;padding:10px 20px;background:#667eea;color:#fff;border:none;border-radius:6px;cursor:pointer;font-weight:bold;box-shadow:0 2px 8px rgba(0,0,0,0.2)";
+      "position:fixed;bottom:20px;right:20px;z-index:9999;padding:10px 20px;background:#667eea;color:#fff;border:none;border-radius:6px;cursor:pointer;font-weight:bold;box-shadow:0 2px 8px rgba(0,0,0,0.2);font-size:14px";
     document.body.appendChild(btn);
   };
 
