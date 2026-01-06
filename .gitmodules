@@ -13,3 +13,6 @@
 [submodule "Win11Lite"]
 	path = Win11Lite
 	url = https://github.com/nvbangg/Win11Lite.git
+[submodule "Mobile-Mods"]
+	path = Mobile-Mods
+	url = https://github.com/nvbangg/Mobile-Mods
