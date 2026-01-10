@@ -16,3 +16,6 @@
 [submodule "Mobile-Mods"]
 	path = ReVanced-Apps
 	url = https://github.com/nvbangg/Mobile-Mods
+[submodule "ReVanced-APK-Builder"]
+	path = ReVanced-APK-Builder
+	url = https://github.com/nvbangg/ReVanced-APK-Builder
