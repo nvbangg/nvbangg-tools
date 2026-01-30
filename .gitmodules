@@ -13,9 +13,6 @@
 [submodule "Win11Lite"]
 	path = Win11Lite
 	url = https://github.com/nvbangg/Win11Lite.git
-[submodule "Mobile-Mods"]
-	path = ReVanced-Apps
-	url = https://github.com/nvbangg/Mobile-Mods
-[submodule "ReVanced-APK-Builder"]
-	path = ReVanced-APK-Builder
-	url = https://github.com/nvbangg/ReVanced-APK-Builder
+[submodule "Patches-APK-Builder"]
+	path = Patches-APK-Builder
+	url = https://github.com/nvbangg/Patches-APK-Builder
