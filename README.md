@@ -19,6 +19,7 @@
 
 - [Studocu Premium Generator](https://github.com/nvbangg/nvbangg-tools/blob/main/studocu_premium_generator.py)
 - [Add GitHub Releases Tab](https://greasyfork.org/vi/scripts/562109-add-github-releases-tab)
+- [Lịch bổ sung ngày lễ ở Việt Nam bị thiếu cho Google Calendar](https://calendar.google.com/calendar/ical/14fced49cf399ce734c17b224d6cd44674dbc802004599e155068008419f47be%40group.calendar.google.com/public/basic.ics)
 
 ## 🏫 PTIT
 
