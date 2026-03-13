@@ -53,8 +53,6 @@
     if (text) {
       text.textContent = "Releases";
       if (text.hasAttribute("data-content")) text.setAttribute("data-content", "Releases");
-      // Use Primer CSS to hide text on small screens, preventing the More menu from being pushed off-screen
-      text.classList.add("d-none", "d-md-inline-block");
     }
 
     target.after(clone);
