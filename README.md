@@ -10,8 +10,7 @@
 
 ## 📦 Repositories
 
-- [Patches APK Builder](https://github.com/nvbangg/Patches-APK-Builder)
-- [nvbangg-patches](https://github.com/nvbangg/nvbangg-patches)
+- [ReVanced Morphe Builder](https://github.com/nvbangg/revanced-morphe-builder)
 - [Nonstop & Audio Only for Youtube & YTMusic](https://github.com/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic)
 - [KeyClipboard](https://github.com/nvbangg/KeyClipboard)
 

@@ -20,7 +20,8 @@
 
   const addReleasesTab = () => {
     const nav = document.querySelector('nav[aria-label="Repository"]');
-    if (!nav || document.getElementById("releases-tab-link")) return;
+    if (!nav) return;
+    if (document.getElementById("releases-tab-link")) return;
 
     // Find the Code tab container ('#code-tab' li, or the first element in nav as fallback)
     const codeTab = document.getElementById("code-tab");
@@ -29,22 +30,14 @@
 
     const clone = target.cloneNode(true);
     const a = clone.tagName === "A" ? clone : clone.querySelector("a");
-    
+    if (!a) return;
+
     a.id = "releases-tab-link";
     a.href = location.pathname.split("/").slice(0, 3).join("/") + "/releases";
-    ["aria-current", "data-hotkey", "data-react-nav", "data-react-nav-anchor"].forEach(attr => a.removeAttribute(attr));
+    ["aria-current", "data-hotkey", "data-react-nav", "data-react-nav-anchor"].forEach((attr) =>
+      a.removeAttribute(attr),
+    );
     a.setAttribute("data-turbo-frame", "repo-content-turbo-frame");
-    
-    // Allow the injected tab to shrink and prevent it from stretching the flex container
-    a.style.minWidth = "0";
-    a.style.overflow = "hidden";
-    a.style.textOverflow = "ellipsis";
-    if (clone !== a) {
-      clone.style.flexShrink = "1";
-      clone.style.minWidth = "0";
-    } else {
-      a.style.flexShrink = "1";
-    }
 
     const svg = a.querySelector("svg");
     if (svg) svg.innerHTML = TAG_PATH;
