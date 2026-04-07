@@ -1,27 +1,37 @@
+# [nvbangg/nvbangg-tools](https://github.com/nvbangg/nvbangg-tools)
+> [!NOTE]
+> A collection of my public tools
 
-[![Stars](https://img.shields.io/github/stars/nvbangg/nvbangg-tools?label=Like%20this%20project%3F%20Star%20it%20⭐&logo=github)](https://github.com/nvbangg/nvbangg-tools) &nbsp; [![Followers](https://img.shields.io/github/followers/nvbangg?label=Follow%20me&logo=github)](https://github.com/nvbangg) &nbsp; [![Sponsor](https://img.shields.io/badge/Sponsor%20this%20project-pink?style=social&logo=github-sponsors)](https://nvbangg.github.io/#donate)
+<div align="center">
 
-<details>
-<summary><h2><a href="https://github.com/nvbangg/nvbangg-tools/blob/main/PTIT-Tools"><strong>PTIT-Tools</strong></a>: Tools nếu học trường PTIT</h2></summary>
-
-- [CodePTIT_Copier](https://github.com/nvbangg/CodePTIT_Copier): Sửa lỗi dòng trống thừa khi Copy trên CodePTIT. Tự động tạo File nhập sẵn Testcase trong VS Code. Hỗ trợ Nộp bài nhanh từ Clipboard
-- [EDAns](https://github.com/nvbangg/EDAns): Extension tự động làm nhanh ED và TOEIC
-- [Khác...](https://github.com/nvbangg/nvbangg-tools/blob/main/PTIT-Tools)
-
-</details>
-
-## 🛠️ Tools:
-
-- [ReVanced APK Builder](https://github.com/nvbangg/ReVanced-APK-Builder): Automatically builds Morphe and ReVanced APK apps after each patch release
-- [Studocu Premium Generator](https://github.com/nvbangg/nvbangg-tools/blob/main/studocu_premium_generator.py): Tool tạo file tài liệu ngẫu nhiên để upload lên Studocu lấy Premium
-- [Add GitHub Releases Tab](https://greasyfork.org/vi/scripts/562109-add-github-releases-tab): Add Releases tab after Code tab on GitHub repos
-- [Nonstop_Audio_Only_for_Youtube_YTMusic](https://github.com/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic): Playing Nonstop & Audio Only on YouTube & YouTube Music
-- [KeyClipboard](https://github.com/nvbangg/KeyClipboard): A Clipboard with Advanced features and Hotkeys to replace Windows Clipboard!
-- [Win11Lite](https://github.com/nvbangg/Win11Lite): Scripts to build a ISO Windows 11 Lite
+[![Stars](https://img.shields.io/github/stars/nvbangg/nvbangg-tools?label=Star%20this%20repo%20if%20useful%20⭐&logo=github)](https://github.com/nvbangg/nvbangg-tools)　[![Donate](https://img.shields.io/badge/Support-pink?style=social&logo=github-sponsors)](https://nvbangg.github.io/#donate)
+</div> 
 
 ---
 
-## ⚖️ Privacy Policy & Legal
+## 📦 Repositories
 
-- This project does not collect any data of any kind
-- Copyright (c) 2025 Nguyễn Văn Bằng (nvbangg, [github.com/nvbangg](https://github.com/nvbangg))
+[![revanced-morphe-builder](https://gh-card.dev/repos/nvbangg/revanced-morphe-builder.svg)](https://github.com/nvbangg/revanced-morphe-builder)
+
+[![Nonstop_Audio_Only_for_Youtube_YTMusic](https://gh-card.dev/repos/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic.svg)](https://github.com/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic)
+
+[![KeyClipboard](https://gh-card.dev/repos/nvbangg/KeyClipboard.svg)](https://github.com/nvbangg/KeyClipboard)
+
+---
+
+## 🛠️ Tools:
+
+- [Studocu Premium Generator](https://github.com/nvbangg/nvbangg-tools/blob/main/studocu_premium_generator.py): Tool tạo file tài liệu ngẫu nhiên để upload lên Studocu lấy Premium
+- [Add GitHub Releases Tab](https://greasyfork.org/en/scripts/562109-add-github-releases-tab): Add Releases tab after Code tab on GitHub repos
+- [Lịch bổ sung ngày lễ ở Việt Nam bị thiếu cho Google Calendar](https://calendar.google.com/calendar/ical/14fced49cf399ce734c17b224d6cd44674dbc802004599e155068008419f47be%40group.calendar.google.com/public/basic.ics)
+
+---
+
+## 🏫 PTIT
+
+[![CodePTIT_Copier](https://gh-card.dev/repos/nvbangg/CodePTIT_Copier.svg)](https://github.com/nvbangg/CodePTIT_Copier)
+
+[![EDAns](https://gh-card.dev/repos/nvbangg/EDAns.svg)](https://github.com/nvbangg/EDAns)
+
+- [Code PTIT Scraper](https://github.com/nvbangg/nvbangg-tools/blob/main/PTIT/code-ptit-scraper.user.js)
+- [DB PTIT Exercises Scraper](https://github.com/nvbangg/nvbangg-tools/blob/main/PTIT/db-ptit-exercises-scraper.user.js)
