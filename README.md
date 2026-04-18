@@ -4,14 +4,14 @@
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/nvbangg/nvbangg-tools?label=Star%20this%20repo%20if%20useful%20⭐&logo=github)](https://github.com/nvbangg/nvbangg-tools)　[![Donate](https://img.shields.io/badge/Support-pink?style=social&logo=github-sponsors)](https://nvbangg.github.io/#donate)
+[![Stars](https://img.shields.io/github/stars/nvbangg/nvbangg-tools?label=Star%20this%20repo%20if%20useful%20⭐&logo=github)](https://github.com/nvbangg/nvbangg-tools)　[![Sponsor](https://img.shields.io/badge/Support-pink?style=social&logo=github-sponsors)](https://github.com/sponsors/nvbangg)
 </div> 
 
 ---
 
 ## 📦 Repositories
 
-[![revanced-morphe-builder](https://gh-card.dev/repos/nvbangg/revanced-morphe-builder.svg)](https://github.com/nvbangg/revanced-morphe-builder)
+[![morphe-builder](https://gh-card.dev/repos/nvbangg/morphe-builder.svg)](https://github.com/nvbangg/morphe-builder)
 
 [![Nonstop_Audio_Only_for_Youtube_YTMusic](https://gh-card.dev/repos/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic.svg)](https://github.com/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic)
 
