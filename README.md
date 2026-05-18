@@ -11,7 +11,9 @@
 
 ## 📦 Repositories
 
-[![morphe-builder](https://gh-card.dev/repos/nvbangg/morphe-builder.svg)](https://github.com/nvbangg/morphe-builder)
+[![awesome-for-morphe](https://gh-card.dev/repos/nvbangg/awesome-for-morphe.svg)](https://github.com/nvbangg/awesome-for-morphe)
+
+[![builder-for-morphe](https://gh-card.dev/repos/nvbangg/builder-for-morphe.svg)](https://github.com/nvbangg/builder-for-morphe)
 
 [![Nonstop_Audio_Only_for_Youtube_YTMusic](https://gh-card.dev/repos/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic.svg)](https://github.com/nvbangg/Nonstop_Audio_Only_for_Youtube_YTMusic)
 
